@@ -3,7 +3,7 @@
 ### I will do but no for a best, good is enough.
 ###
 ### I just want to say one sentence：
-_Hello World!
+Hello World!
 <!--
 **MetallicAllex/metallicallex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
