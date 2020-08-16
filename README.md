@@ -2,10 +2,8 @@
 ## I'm try making new things. But has no any idea. :-(
 ## I will do but no for a best, good is enough.
 
-## Personal Website:
+## Other Personal Website:
 [Bilibili](https://space.bilibili.com/400342138)
-
-[Twitter](https:www.twitter.com/MetallicAllex)
 
 <!--
 **MetallicAllex/metallicallex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
