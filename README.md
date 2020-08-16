@@ -1,9 +1,9 @@
-## Hi there 👋
-## I'm try making new things. But has no any idea. :-(
-## I will do but no for a best, good is enough.
+# Hi there 👋
+# I'm try making new things. But has no any idea. :-(
+# I will do but no for a best, good is enough.
 
-## Other Personal Website:
-[Bilibili](https://space.bilibili.com/400342138)
+# Other Personal Website:
+# [Bilibili](https://space.bilibili.com/400342138)
 
 <!--
 **MetallicAllex/metallicallex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
