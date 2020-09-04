@@ -1,6 +1,6 @@
 # Hi there 👋
 # I'm try making new things. But has no any idea. :-(
-# I will do but no for a best, good is enough.
+# I will do but impossible for best, good is enough.
 
 # Other Personal Website:
 # [Bilibili](https://space.bilibili.com/400342138)
