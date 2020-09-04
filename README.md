@@ -1,6 +1,6 @@
 # Hi there 👋
 # I'm try making new things. But has no any idea. :-(
-# I will do everything but impossible for best.
+# I will do everything but not always for best.
 
 # My Other Personal Website:
 # [Bilibili](https://space.bilibili.com/400342138)
