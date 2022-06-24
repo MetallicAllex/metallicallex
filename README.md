@@ -4,6 +4,8 @@
 
 # My Other Website is in the [Repositories](https://github.com/MetallicAllex?tab=repositories).
 
+[![Meta's GitHub stats](https://github-readme-stats.vercel.app/api?username=MetallicAllex)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **MetallicAllex/metallicallex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
