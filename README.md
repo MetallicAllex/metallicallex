@@ -1,7 +1,7 @@
 # 你好！ 👋
 # 这里是【天蓝】，你也可以称呼我 “Meta”。
 # 来自于中国，是00后，2022级高中毕业生。
-# 现在在尝试努力学习中。
+# 现在在尝试努力学习（摸鱼）中。
 
 [![Meta's GitHub stats](https://github-readme-stats.vercel.app/api?username=MetallicAllex)](https://github.com/anuraghazra/github-readme-stats)
 
