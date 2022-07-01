@@ -1,8 +1,7 @@
-# Hi there 👋
-# I'm try making new things. But has no any idea. :-(
-# I will do everything but not always for best.
-
-# My Other Website is in the [Repositories](https://github.com/MetallicAllex?tab=repositories).
+# 你好！ 👋
+# 这里是【天蓝】，你也可以称呼我 “Meta”。
+# 来自于中国，是00后，2022级高中毕业生。
+# 现在在尝试努力学习中。
 
 [![Meta's GitHub stats](https://github-readme-stats.vercel.app/api?username=MetallicAllex)](https://github.com/anuraghazra/github-readme-stats)
 
