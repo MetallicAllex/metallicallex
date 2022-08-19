@@ -1,9 +1,9 @@
-# 👋 你好！ 
-# 这里是【天蓝】，也可以称呼我 ***“Meta” 或 “Chiron”*** 。
+# 👋 你好！（自我介绍）
+## 这里是【天蓝】，也可以称呼我 ***“Meta” 或 “Chiron”*** 。
 ## ***中文/English/日本語OK。【可能会使用到谷歌翻译】***
 ## 在尝试学习~~（摸鱼）~~中。**
 
-# 😄 感兴趣的:
+## 😄 感兴趣的:
 [Phigros](https://www.pigeongames.cn/phigros)
 [Arcaea](https://arcaea.lowiro.com)
 [Orzmic](https://www.taptap.com/app/194778)
@@ -11,7 +11,7 @@
 [原神（Genshin Impact）](https://ys.mihoyo.com)
 or etc.
 
-# 📫 如何联系我：
+## 📫 如何联系我：
 ***[Twitter](https://twitter.com/MetallicAllex)***
 ***[Bilibili](https://space.bilibili.com/400342138)***
 
