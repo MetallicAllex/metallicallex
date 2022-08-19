@@ -1,10 +1,10 @@
 # 👋 你好！（自我介绍）
 ## 这里是【天蓝】，也可以称呼我 ***“Meta” 或 “Chiron”*** 。
-## ***中文/English/日本語OK。【可能会使用到[![Google Translate](http://ssl.gstatic.com/translate/favicon.ico)](https://translate.google.cn)】***
+## ***中文/English/日本語OK。【可能会使用到[![Google Translate](http://ssl.gstatic.com/translate/favicon.ico)](https://translate.google.com)】***
 ## 在尝试学习 ~~（摸鱼）~~ 中。
 
 ## 😄 感兴趣的:
-[Phigros](https://www.pigeongames.cn/phigros)
+[![Phigros](https://www.pigeongames.cn/phigros)](https://img.tapimg.com/market/lcs/ef335d0d806fab725a157a3d4d8cccea_360.png)]
 [Arcaea](https://arcaea.lowiro.com)
 [Orzmic](https://www.taptap.com/app/194778)
 [Minecraft](https://www.minecraft.net)【很少玩了】
