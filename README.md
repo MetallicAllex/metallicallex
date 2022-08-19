@@ -4,8 +4,8 @@
 ## ***中文/English/日本語OK。【可能会使用到谷歌翻译】***
 
 # 关注我（目前常用的只有这两个，***抱歉***）：
-**[Twitter](https://twitter.com/MetallicAllex)**
-**[Bilibili](https://space.bilibili.com/400342138)
+***[Twitter](https://twitter.com/MetallicAllex)***
+***[Bilibili](https://space.bilibili.com/400342138)***
 
 [![MetallicAllex's GitHub stats](http://gh-stats.koto.cc/api?username=MetallicAllex&show_icons=true&theme=dracula&bg_color=DEG,ff9a9e,ff9a9e,fecfef&title_color=ffffff&hide_border=true&locale=zh-tw)](https://github.com/MetallicAllex)
 [![Top Langs](http://gh-stats.koto.cc/api/top-langs/?username=MetallicAllex&layout=compact&show_icons=true&theme=dracula&bg_color=DEG,fbc2eb,a6c1ee&title_color=ffffff&hide_border=true&locale=zh-tw)](https://github.com/MetallicAllex)
