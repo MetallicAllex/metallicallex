@@ -1,6 +1,6 @@
 # 👋 你好！（自我介绍）
 ## 这里是【天蓝】，也可以称呼我 ***“Meta” 或 “Chiron”*** 。
-## ***中文/English/日本語OK。【可能会使用到[Google Translate](https://translate.google.com)】***
+## ***中文/English/日本語OK。【可能会使用到[![Google Translate](http://ssl.gstatic.com/translate/favicon.ico)](https://translate.google.cn)】***
 ## 在尝试学习 ~~（摸鱼）~~ 中。
 
 ## 😄 感兴趣的:
