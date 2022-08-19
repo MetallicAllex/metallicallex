@@ -4,7 +4,7 @@
 ## 在尝试学习 ~~（摸鱼）~~ 中。
 
 ## 😄 感兴趣的:
-[![Phigros](https://www.pigeongames.cn/phigros)](https://img.tapimg.com/market/lcs/ef335d0d806fab725a157a3d4d8cccea_360.png)]
+[![Phigros](https://www.pigeongames.cn/phigros)](https://img.tapimg.com/market/lcs/ef335d0d806fab725a157a3d4d8cccea_360.png?imageMogr2/auto-orient/strip)]
 [Arcaea](https://arcaea.lowiro.com)
 [Orzmic](https://www.taptap.com/app/194778)
 [Minecraft](https://www.minecraft.net)【很少玩了】
