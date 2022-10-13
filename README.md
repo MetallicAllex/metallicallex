@@ -15,7 +15,7 @@ or etc.
 ***[Twitter](https://twitter.com/MetallicAllex)***
 ***[Bilibili](https://space.bilibili.com/400342138)***
 
-[![MetallicAllex's GitHub stats](http://gh-stats.koto.cc/api?username=MetallicAllex&show_icons=true&theme=dracula&bg_color=DEG,ff9a9e,ff9a9e,fecfef&title_color=ffffff&hide_border=true&locale=zh-tw)](https://github.com/MetallicAllex)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MetallicAllex)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](http://gh-stats.koto.cc/api/top-langs/?username=MetallicAllex&layout=compact&show_icons=true&theme=dracula&bg_color=DEG,fbc2eb,a6c1ee&title_color=ffffff&hide_border=true&locale=zh-tw)](https://github.com/MetallicAllex)
 <!--
 **MetallicAllex/metallicallex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
