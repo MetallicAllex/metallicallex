@@ -36,7 +36,9 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=007ACC)](https://github.com/MetallicAllex)
 ## 🧱 Framework / 框架
 [![Bootstrap](https://img.shields.io/badge/bootstrap%204-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=563d7c)](https://github.com/MetallicAllex)
-[![Hexo](https://img.shields.io/badge/hexo-%23323330.svg?style=for-the-badge&logo=hexo&logoColor=0000ff)](https://github.com/MetallicAllex)
+[![Hexo](https://img.shields.io/badge/hexo-%23323330.svg?style=for-the-badge&logo=hexo&logoColor=0e83cd)](https://github.com/MetallicAllex)
+[![Vite](https://img.shields.io/badge/vite-%23323330.svg?style=for-the-badge&logo=vite&logoColor=61a8fe)](https://github.com/MetallicAllex)
+[![Electron](https://img.shields.io/badge/electron-%23323330.svg?style=for-the-badge&logo=electron&logoColor=9feaf9)](https://github.com/MetallicAllex)
 ## 💽 Back-end / 后端
 [![Node.js](https://img.shields.io/badge/Node.js-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=339933)](https://github.com/MetallicAllex)
 ## 💬 Language / 语言
