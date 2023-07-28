@@ -1,11 +1,11 @@
 # *Copy from other github profile
 
 <div>
- <a href="https://github.com/MetallicAllex"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:c7fdff,100:8a70ff&height=150&text=Github&desc=.inc&animation=twinkling&fontColor=000454&fontSize=40&fontAlignY=25&rotate=1&descAlignY=45&descAlign=57" width="100%"></a>
+ <a href="https://github.com/MetallicAllex"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:c7fdff,100:8a70ff&height=150&text=GitHub&desc=.com&animation=twinkling&fontColor=000454&fontSize=40&fontAlignY=25&rotate=1&descAlignY=45&descAlign=57" width="100%"></a>
  <div align="center">
    <a href="https://github.com/MetallicAllex"><img src="https://readme-typing-svg.herokuapp.com?font=Saira&duration=4000&pause=1000&color=006EF7&center=true&width=435&lines=Hello%2C+Guys!;Welcome+To+My+Page" alt="Typing Svg" style="margin-bottom: 10px"></a>
    <div>
-     <a href="https://github.com/MetallicAllex"><img src="/assets/star-rail-kuru.gif" width="150" height="150" alt="kuru kuru.png" style="border: 2px solid cyan; border-radius: 50%"></a>
+     <a href="https://github.com/MetallicAllex"><img src="https://avatars.githubusercontent.com/u/53444919?v=4" width="150" height="150" alt="kuru kuru.png" style="border: 2px solid cyan; border-radius: 50%"></a>
    </div>
    <div>
      <a href="https://github.com/MetallicAllex"><img src="https://readme-typing-svg.herokuapp.com?font=Saira&size=17&duration=3000&pause=1000&color=F796B1&center=true&vCenter=true&width=240&height=35&lines=MetallicAllex;MetaChiron;" alt="Typing SVG" style="margin: 10px; border-radius: 5%; box-shadow: 0 0 17px 6px lightpink; border: 0.5px solid red" /></a>
@@ -15,14 +15,14 @@
      <a href="https://github.com/MetallicAllex"><img alt="GitHub Start" src="https://img.shields.io/github/stars/MetallicAllex?label=Github%20Star&style=flat-square&logo=github"></a>
    </selection>
    <article style="color:lightblue; padding: 10px;">
-     <p>Hello Everyone!<br /> I'm MetallicAllex.</p>
-     <p>Currently studying [Web Full-Stack/Java/C/and etc].</p>
+     <p>Hello Everyone!<br /> I'm 〖天蓝〗(SkyBlue) / MetallicAllex.</p>
+     <p>I'm Currently studying [Web Full-Stack/Java/C/and etc].</p>
      <h3>中文版：</h3>
-     <p><h1 style="border-buttom=0;">👋 你好！（自我介绍）</h1><br />我是 MetallicAllex。</p>
+     <p><h3>👋 你好！（自我介绍）</h3><br />我是〖天蓝〗 / MetallicAllex。</p>
      <p>目前正在进行【Web全栈/Java/C】学习。</p>
    </article>
    <nav>
-     <a href="https://blog.chiron1937.tk" style="text-decoration: none; Color: #5460ff">🔗我的站点</a><br>
+     <a href="https://blog.chiron1937.tk" style="text-decoration: none; Color: #5460ff">🔗个人站点 / Personal Website</a><br>
    </nav>
  </div>
  <a href="https://github.com/MetallicAllex"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:c7fdff,100:bf75ff&height=150&section=footer&reversal=true" width="100%"></a>
@@ -36,6 +36,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=007ACC)](https://github.com/MetallicAllex)
 ## 🧱 Framework / 框架
 [![Bootstrap](https://img.shields.io/badge/bootstrap%204-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=563d7c)](https://github.com/MetallicAllex)
+[![Hexo](https://img.shields.io/badge/hexo-%23323330.svg?style=for-the-badge&logo=hexo&logoColor=0000ff)](https://github.com/MetallicAllex)
 ## 💽 Back-end / 后端
 [![Node.js](https://img.shields.io/badge/Node.js-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=339933)](https://github.com/MetallicAllex)
 ## 💬 Language / 语言
@@ -52,11 +53,11 @@
 [![Visual Studio code](https://img.shields.io/badge/Visual%20Studio%20Code-%23323330.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC)](https://code.visualstudio.com/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23323330.svg?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=91DFFF)](https://code.visualstudio.com/)
 ## 📊 GitHub Stats / GitHub 状态 :
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=MetallicAllex&theme=holi&hide_border=true&include_all_commits=true&count_private=false&show=reviews&show_icons=true&custom_title=MetallicAllex's%20Stats&include_all_commits=true)](https://github.com/MetallicAllex)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=MetallicAllex&theme=holi&hide_border=true&include_all_commits=true&count_private=false&show=reviews&show_icons=true&custom_title=〖天蓝〗's%20Stats&include_all_commits=true)](https://github.com/MetallicAllex)
 
 ### ✍️Most Used Language / 最常用的语言
 
-[![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=MetallicAllex&theme=holi&hide_border=true&layout=compact&langs_count=47&custom_title=Language%20Used&include_all_commits=true)](https://github.com/MetallicAllex)
+[![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=MetallicAllex&theme=holi&hide_border=true&layout=compact&langs_count=47&custom_title=Language%20Used%20/%20常用的语言&include_all_commits=true)](https://github.com/MetallicAllex)
 
 ### 🔥Streak:
 
