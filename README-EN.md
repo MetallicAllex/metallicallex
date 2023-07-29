@@ -2,16 +2,16 @@
 <div>
  <a href="https://github.com/MetallicAllex"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:c7fdff,100:8a70ff&height=150&text=GitHub&desc=.com&animation=twinkling&fontColor=000454&fontSize=40&fontAlignY=25&rotate=1&descAlignY=45&descAlign=57" width="100%"></a>
  <div align="center">
-   <a href="https://github.com/MetallicAllex"><img src="https://readme-typing-svg.herokuapp.com?font=Saira&duration=4000&pause=1000&color=006EF7&center=true&width=435&lines=Hello%2C+Guys!;Welcome+To+My+Page" alt="Typing Svg" style="margin-bottom: 10px"></a>
+   <a href="https://github.com/MetallicAllex"><img src="https://readme-typing-svg.herokuapp.com?font=Saira&duration=4000&pause=1000&color=006EF7&center=true&width=435&lines=Hello!;Welcome+To+My+Page" alt="Typing Svg" style="margin-bottom: 10px"></a>
    <div>
      <a href="https://github.com/MetallicAllex"><img src="https://avatars.githubusercontent.com/u/53444919?v=4" width="150" height="150" alt="kuru kuru.png" style="border: 2px solid cyan; border-radius: 50%"></a>
    </div>
    <div>
-     <a href="https://github.com/MetallicAllex"><img src="https://readme-typing-svg.herokuapp.com?font=Saira&size=17&duration=3000&pause=1000&color=F796B1&center=true&vCenter=true&width=240&height=35&lines=MetallicAllex;MetaChiron;" alt="Typing SVG" style="margin: 10px; border-radius: 5%; box-shadow: 0 0 17px 6px lightpink; border: 0.5px solid red" /></a>
+     <a href="https://github.com/MetallicAllex"><img src="https://readme-typing-svg.herokuapp.com?font=Saira&size=17&duration=3000&pause=1000&color=F796B1&center=true&vCenter=true&width=240&height=35&lines=MetallicAllex;Meta+Chiron;" alt="Typing SVG" style="margin: 10px; border-radius: 5%; box-shadow: 0 0 17px 6px lightpink; border: 0.5px solid red" /></a>
    </div>
    <selection>
      <a href="https://github.com/MetallicAllex"><img alt="GitHub followers" src="https://img.shields.io/github/followers/MetallicAllex?label=Github%20Follower&style=flat-square&logo=github"></a>
-     <a href="https://github.com/MetallicAllex"><img alt="GitHub Start" src="https://img.shields.io/github/stars/MetallicAllex?label=Github%20Star&style=flat-square&logo=github"></a>
+     <a href="https://github.com/MetallicAllex"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/MetallicAllex?label=Github%20Star&style=flat-square&logo=github"></a>
    </selection>
    <article style="color:lightblue; padding: 10px;">
      <p>👋 Hello Everyone!<br /> I'm 〖天蓝〗(SkyBlue) / MetallicAllex.</p>
