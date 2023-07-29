@@ -1,4 +1,4 @@
-<h3 align="center">此介绍拥有<a href="README-EN.md">英文版本</a>。（你正在阅读<a href="README.md">中文版本</a>）<br />This introduction is available with <a href="README.md">zh</a>/<a href="README-EN.md">en</a> version. (You are reading <a href="README.md">cn version</a>)</h3>
+<h3 align="center">此介绍拥有<a href="README-EN.md">英文版本</a>。（你正在阅读<a href="https://github.com/MetallicAllex">中文版本</a>）<br />This introduction is available with <a href="https://github.com/MetallicAllex">zh</a>/<a href="README-EN.md">en</a> version. (You are reading <a href="README.md">cn version</a>)</h3>
 <div>
  <a href="https://github.com/MetallicAllex"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:c7fdff,100:8a70ff&height=150&text=GitHub&desc=.com&animation=twinkling&fontColor=000454&fontSize=40&fontAlignY=25&rotate=1&descAlignY=45&descAlign=57" width="100%"></a>
  <div align="center">
@@ -57,7 +57,7 @@
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=MetallicAllex&theme=holi&hide_border=true&include_all_commits=true&count_private=true&show=reviews&show_icons=true&custom_title=〖天蓝〗的%20GitHub%20统计数据&include_all_commits=true&locale=cn)](https://github.com/MetallicAllex)
 
 ### ✍️ 最常用的语言
-[![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=MetallicAllex&theme=holi&hide_border=true&layout=compact&langs_count=47&custom_title=Language%20Used%20/%20常用语言&include_all_commits=true&locale=cn)](https://github.com/MetallicAllex)
+[![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=MetallicAllex&theme=holi&hide_border=true&layout=compact&langs_count=47&custom_title=〖天蓝〗的常用语言&include_all_commits=true&locale=cn)](https://github.com/MetallicAllex)
 
 ### 🔥 连续贡献数据
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MetallicAllex&theme=tokyonight&hide_border=true&locale=zh)](https://github.com/MetallicAllex)
