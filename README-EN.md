@@ -1,4 +1,4 @@
-<h3 align="center">此介绍拥有<a href="README.md">中文版本</a>。（你正在阅读<a href="README2-EN.md">英文版本</a>）<br />This introduction is available with <a href="README.md">zh</a>/<a href="README2-EN.md">en</a> version. (You are reading <a href="README2-EN.md">en version</a>)</h3>
+<h3 align="center">此介绍拥有<a href="https://github.com/MetallicAllex">中文版本</a>。（你正在阅读<a href="README2-EN.md">英文版本</a>）<br />This introduction is available with <a href="https://github.com/MetallicAllex">zh</a>/<a href="README2-EN.md">en</a> version. (You are reading <a href="README2-EN.md">en version</a>)</h3>
 <div>
  <a href="https://github.com/MetallicAllex"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:c7fdff,100:8a70ff&height=150&text=GitHub&desc=.com&animation=twinkling&fontColor=000454&fontSize=40&fontAlignY=25&rotate=1&descAlignY=45&descAlign=57" width="100%"></a>
  <div align="center">
