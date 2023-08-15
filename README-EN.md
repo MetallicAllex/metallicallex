@@ -53,7 +53,9 @@
 [![Blender](https://img.shields.io/badge/Blender-%23323330.svg?style=for-the-badge&logo=blender&logoColor=F5792A)](https://github.com/MetallicAllex)-->
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%23323330.svg?style=for-the-badge&logo=Visual%20Studio&logoColor=ce98fa)](https://code.visualstudio.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23323330.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC)](https://code.visualstudio.com/)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23323330.svg?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=91DFFF)](https://code.visualstudio.com/)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23323330.svg?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=91DFFF)](https://www.jetbrains.com/idea/)
+[![Rider](https://img.shields.io/badge/Rider-%23323330.svg?style=for-the-badge&logo=Rider&logoColor=1576f1)](https://www.jetbrains.com/rider/)
+[![CLion](https://img.shields.io/badge/CLion-%23323330.svg?style=for-the-badge&logo=CLion&logoColor=23caae)](https://www.jetbrains.com/clion/)
 
 ## 📊 GitHub Stats
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=MetallicAllex&theme=holi&hide_border=true&include_all_commits=true&count_private=true&show=reviews&show_icons=true&include_all_commits=true&locale=en)](https://github.com/MetallicAllex)
