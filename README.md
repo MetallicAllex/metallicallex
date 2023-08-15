@@ -61,16 +61,16 @@
 
 ### ✍️ 最常用的语言
 [![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=MetallicAllex&theme=holi&hide_border=true&layout=compact&langs_count=47&custom_title=〖天蓝〗的常用语言&include_all_commits=true&locale=cn)](https://github.com/MetallicAllex)
-
+<!--
 ### 🔥 连续贡献数据
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MetallicAllex&theme=tokyonight&hide_border=true&locale=zh)](https://github.com/MetallicAllex)
 
-<!--### 🏆 奖杯: 
-[![Trophies](https://github-trophies.vercel.app/?username=MetallicAllex&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/MetallicAllex)-->
+### 🏆 奖杯: 
+[![Trophies](https://github-trophies.vercel.app/?username=MetallicAllex&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/MetallicAllex)
 
 ## 🔝 贡献最多的项目
 [![Top Contri](https://github-contributor-stats.vercel.app/api?username=MetallicAllex&custom_title=〖天蓝〗的%20GitHub%20项目贡献数据&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&locale=cn)](https://github.com/MetallicAllex)
-<!--
+
 ## 📋 随机开发者诗词
 [![Random](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&hide_border=true)](https://github.com/MetallicAllex)-->
 
