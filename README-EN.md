@@ -60,17 +60,16 @@
 
 ### ✍️Most Used Language
 [![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=MetallicAllex&theme=holi&hide_border=true&layout=compact&langs_count=47&custom_title=Language%20Used&include_all_commits=true&locale=en)](https://github.com/MetallicAllex)
-
+<!-- 
 ### 🔥Streak:
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MetallicAllex&theme=tokyonight&hide_border=true)](https://github.com/MetallicAllex)
 
-<!-- ### 🏆 Trophies: 
-[![Trophies](https://github-trophies.vercel.app/?username=MetallicAllex&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/MetallicAllex) -->
+### 🏆 Trophies: 
+[![Trophies](https://github-trophies.vercel.app/?username=MetallicAllex&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/MetallicAllex)
 
 ## 🔝Top Contributed Repo
 [![Top Contri](https://github-contributor-stats.vercel.app/api?username=MetallicAllex&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)](https://github.com/MetallicAllex)
 
-<!--
 ## 📋Random Dev Quote
 [![Random](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&hide_border=true)](https://github.com/MetallicAllex)-->
 
