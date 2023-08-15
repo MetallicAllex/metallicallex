@@ -40,7 +40,9 @@
 [![Node.js](https://img.shields.io/badge/Node.js-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=339933)](https://github.com/MetallicAllex)
 
 ## 💬 Language
-[![C](https://img.shields.io/badge/c-%23323330.svg?style=for-the-badge&logo=c&logoColor=ffffff&color=828b9a)](https://github.com/MetallicAllex)
+[![C](https://img.shields.io/badge/c-%23323330.svg?style=for-the-badge&logo=c&logoColor=ffffff&color=57545b)](https://github.com/MetallicAllex)
+[![C#](https://img.shields.io/badge/c%23-%23323330.svg?style=for-the-badge&logo=csharp&logoColor=ffffff&color=3a0091)](https://github.com/MetallicAllex)
+[![C++](https://img.shields.io/badge/c++-%23323330.svg?style=for-the-badge&logo=c%2b%2b&logoColor=ffffff&color=00599d)](https://github.com/MetallicAllex)
 [![Rust](https://img.shields.io/badge/Rust-%23323330.svg?style=for-the-badge&logo=Rust&logoColor=FF7518)](https://github.com/MetallicAllex)
 [![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=oracle&logoColor=F80000&color=007bbc)](https://github.com/MetallicAllex)
 [![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=4382b4&color=ffdf5a)](https://github.com/MetallicAllex)
