@@ -11,6 +11,9 @@
 [原神（Genshin Impact）](https://ys.mihoyo.com)
 or etc.
 
+# 游戏信息
+![My osu! status](https://osu-sig.vercel.app/card?user=MetallicAllex&mode=catch&animation=true)
+
 ## 📫 如何联系我：
 ***[Twitter](https://twitter.com/MetallicAllex)***
 ***[Bilibili](https://space.bilibili.com/400342138)***
