@@ -31,10 +31,8 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=007ACC)](https://github.com/MetallicAllex)
 
 ## 🧱 Framework
-[![Bootstrap](https://img.shields.io/badge/bootstrap%204-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=563d7c)](https://github.com/MetallicAllex)
 [![Hexo](https://img.shields.io/badge/hexo-%23323330.svg?style=for-the-badge&logo=hexo&logoColor=0e83cd)](https://github.com/MetallicAllex)
-[![Vite](https://img.shields.io/badge/vite-%23323330.svg?style=for-the-badge&logo=vite&logoColor=61a8fe)](https://github.com/MetallicAllex)
-[![Electron](https://img.shields.io/badge/electron-%23323330.svg?style=for-the-badge&logo=electron&logoColor=9feaf9)](https://github.com/MetallicAllex)
+[![Vue](https://img.shields.io/badge/vue-%23323330.svg?style=for-the-badge&logo=vite&logoColor=61a8fe)](https://github.com/MetallicAllex)
 
 ## 💽 Back-end
 [![Node.js](https://img.shields.io/badge/Node.js-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=339933)](https://github.com/MetallicAllex)
@@ -43,16 +41,10 @@
 [![C](https://img.shields.io/badge/c-%23323330.svg?style=for-the-badge&logo=c&logoColor=ffffff&color=57545b)](https://github.com/MetallicAllex)
 [![C#](https://img.shields.io/badge/c%23-%23323330.svg?style=for-the-badge&logo=csharp&logoColor=ffffff&color=3a0091)](https://github.com/MetallicAllex)
 [![C++](https://img.shields.io/badge/c++-%23323330.svg?style=for-the-badge&logo=c%2b%2b&logoColor=ffffff&color=00599d)](https://github.com/MetallicAllex)
-[![Rust](https://img.shields.io/badge/Rust-%23323330.svg?style=for-the-badge&logo=Rust&logoColor=FF7518)](https://github.com/MetallicAllex)
 [![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=oracle&logoColor=F80000&color=007bbc)](https://github.com/MetallicAllex)
 [![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=4382b4&color=ffdf5a)](https://github.com/MetallicAllex)
-<!-- [![Kotlin](https://img.shields.io/badge/kotlin-%23323330.svg?style=for-the-badge&logo=kotlin&logoColor=7F52FF)](https://github.com/MetallicAllex) -->
 
 ## 💻 Editor
-<!--[![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-%23323330.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=FF2D55)](https://github.com/MetallicAllex)
-[![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-%23323330.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=EA77FF)](https://github.com/MetallicAllex)
-[![Animate](https://img.shields.io/badge/Adobe%20Animate-%23323330.svg?style=for-the-badge&logo=adobe&logoColor=FF0000)](https://github.com/MetallicAllex)
-[![Blender](https://img.shields.io/badge/Blender-%23323330.svg?style=for-the-badge&logo=blender&logoColor=F5792A)](https://github.com/MetallicAllex)-->
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%23323330.svg?style=for-the-badge&logo=Visual%20Studio&logoColor=ce98fa)](https://code.visualstudio.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23323330.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC)](https://code.visualstudio.com/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23323330.svg?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=91DFFF)](https://www.jetbrains.com/idea/)
