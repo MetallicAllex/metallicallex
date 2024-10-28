@@ -18,7 +18,7 @@
      <p>I'm Currently studing [Web Full-Stack/Java/C/and etc].</p>
    </article>
    <nav>
-     <a href="https://blog.chiron1937.tk" style="text-decoration: none; Color: #5460ff">🔗Personal Website</a><br>
+     <a href="https://blog.meta1937.top" style="text-decoration: none; Color: #5460ff">🔗Personal Website</a><br>
    </nav>
  </div>
  <a href="https://github.com/MetallicAllex"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:c7fdff,100:bf75ff&height=150&section=footer&reversal=true" width="100%"></a>
