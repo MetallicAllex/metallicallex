@@ -79,7 +79,5 @@
 
 * [![Bilibili](https://img.shields.io/badge/哔哩哔哩-天蓝_Chiron-00aeec?logo=bilibili&style=flat-square)](https://space.bilibili.com/400342138)
 
-* [![Mastodon](https://img.shields.io/badge/Mastodon-metallicallex@mastodon.world-6364ff?logo=mastodon&style=flat-square)](https://mastodon.world/@metallicallex)
-
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=MetallicAllex&style=for-the-badge" alt="Visit Counter.bmp"></p>
