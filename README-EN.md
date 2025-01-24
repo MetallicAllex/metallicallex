@@ -14,7 +14,7 @@
      <a href="https://github.com/MetallicAllex"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/MetallicAllex?label=Github%20Star&style=flat-square&logo=github"></a>
    </selection>
    <article style="color:lightblue; padding: 10px;">
-     <p>👋 Hello Everyone!<br /> I'm 〖天蓝〗(SkyBlue) / MetallicAllex.</p>
+     <p>👋 Hello Everyone!<br /> I'm 〖天蓝〗(SkyBlue [include〖〗，that's fullname]) / MetallicAllex.</p>
      <p>I'm Currently studing [Web Full-Stack/Java/C/and etc].</p>
    </article>
    <nav>
