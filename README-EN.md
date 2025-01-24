@@ -15,7 +15,6 @@
    </selection>
    <article style="color:lightblue; padding: 10px;">
      <p>👋 Hello Everyone!<br /> I'm 〖天蓝〗(SkyBlue [include〖〗，that's fullname]) / MetallicAllex.</p>
-     <p>I'm Currently studing [Web Full-Stack/Java/C/and etc].</p>
    </article>
    <nav>
      <a href="https://blog.meta1937.top" style="text-decoration: none; Color: #5460ff">🔗Personal Website</a><br>
