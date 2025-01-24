@@ -14,8 +14,7 @@
      <a href="https://github.com/MetallicAllex"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/MetallicAllex?label=Github%20Star&style=flat-square&logo=github"></a>
    </selection>
    <article style="color:lightblue; padding: 10px;">
-     <p><h3>👋 你好！（自我介绍）</h3><br />我是〖天蓝〗 / MetallicAllex。</p>
-     <p>目前正在进行【Web全栈/Java/C】学习。</p>
+     <p><h3>👋 你好！（自我介绍）</h3><br />我是〖天蓝〗 (含〖〗，这才是全名)/ MetallicAllex。</p>
    </article>
    <nav>
      <a href="https://blog.meta1937.top" style="text-decoration: none; Color: #5460ff">🔗个人站点</a><br>
